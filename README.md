@@ -16,9 +16,14 @@
 
 
 ## Spring Initializr - Selected Dependencies
+
+### Developer Tools
 - Spring Boot DevTools
 - Lombok
-- Spring Web
-- Thymeleaf
 
+### Web
+- Spring Web
+
+### Template Engins
+- Thymeleaf
 
