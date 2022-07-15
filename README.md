@@ -27,3 +27,8 @@
 ### Template Engins
 - Thymeleaf
 
+
+## IntelliJ IDEA CE -Gradle-Setting
+- Gradle 설정
+
+   <img width="500" alt="gradle_setting" src="https://user-images.githubusercontent.com/83820185/179154111-1297c9c0-9714-42d1-ab0e-f897310d9494.png">
