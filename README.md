@@ -36,6 +36,7 @@
  
 ## ex3_result
 - bootstrap - template 적용 -> exSidebar.html
+- http://localhost:8080/sample/exSidebar
 
   <img width="1000" alt="ex3_exSidebar_Page" src="https://user-images.githubusercontent.com/83820185/179456996-f7622e39-44b3-49e1-aec1-257c8f714cb5.png">
 
