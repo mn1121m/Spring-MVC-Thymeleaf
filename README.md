@@ -16,9 +16,27 @@
 
 
 ## Spring Initializr - Selected Dependencies
+
+### Developer Tools
 - Spring Boot DevTools
 - Lombok
+
+### Web
 - Spring Web
+
+### Template Engins
 - Thymeleaf
 
+
+## IntelliJ IDEA CE -Gradle-Setting
+- Gradle 설정
+
+   <img width="500" alt="gradle_setting" src="https://user-images.githubusercontent.com/83820185/179154111-1297c9c0-9714-42d1-ab0e-f897310d9494.png">
+   
+ 
+## ex3_result
+- bootstrap - template 적용 -> exSidebar.html
+- http://localhost:8080/sample/exSidebar
+
+  <img width="1000" alt="ex3_exSidebar_Page" src="https://user-images.githubusercontent.com/83820185/179456996-f7622e39-44b3-49e1-aec1-257c8f714cb5.png">
 
